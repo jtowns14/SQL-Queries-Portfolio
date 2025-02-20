@@ -5,5 +5,6 @@ Portfolio demonstrating SQL queries, filtering, joins, and database management f
 ## Project Included:
 - **Apply filters to SQL queries**: A portfolio activity demonstrating how to use SQL to retrieve data, apply filters, and perform joins.
 
-📂 [View Portfolio](SQL-Portfolio.pdf)
+![image](https://github.com/user-attachments/assets/51e5493f-0e13-4a99-beb2-c08a7fc3fb2d)
+
 
